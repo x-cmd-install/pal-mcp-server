@@ -1,0 +1,59 @@
+about:
+  description: The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+  license: NOASSERTION
+  homepage: 
+  head: 7afc7c1
+  archived: false
+  latestVersion: v9.8.2
+  collectedAt: 2026-09-03T04:56:31Z
+timeline:
+  created: 2025-06-08
+  lastCommit: 2025-12-15
+  lastRelease: 2025-12-15
+popularity:
+  star: 11729
+  watcher: 64
+  fork: 1031
+  release: 74
+  contributor: 32
+  pullRequest: 165
+  issue: 235
+language:
+  Python: 3035831
+  Shell: 102281
+  PowerShell: 100667
+  Dockerfile: 2626
+totalLine: 3241405
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 2
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 0
+    openPR: 12
+    closedIssue: 0
+    openIssue: 7
+    commit: 0
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 0
+    openPR: 23
+    closedIssue: 1
+    openIssue: 16
+    commit: 0
+  last360d:
+    since: 2025-09-08
+    release: 67
+    mergedPR: 19
+    openPR: 53
+    closedIssue: 26
+    openIssue: 51
+    commit: 312
