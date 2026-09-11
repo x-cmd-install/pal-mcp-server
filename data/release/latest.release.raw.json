@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 406484,
       "digest": "sha256:ee1b2a666c553df3a4cf20b8e365b7603724601b13d63d19c93c1bbca4220c5e",
-      "download_count": 65,
+      "download_count": 81,
       "created_at": "2025-12-15T17:07:33Z",
       "updated_at": "2025-12-15T17:07:34Z",
       "browser_download_url": "https://github.com/BeehiveInnovations/pal-mcp-server/releases/download/v9.8.2/pal_mcp_server-9.8.2-py3-none-any.whl"
