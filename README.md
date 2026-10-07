@@ -37,22 +37,22 @@ Total: **62,154** lines of code across **283** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,767 · **Forks**: 1,040 · **Open issues**: 237 · **Contributors**: 32
+- **Stars**: 11,772 · **Forks**: 1,040 · **Open issues**: 237 · **Contributors**: 32
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 59 · **Open PRs**: 71 · **Closed issues**: 159 · **Open issues**: 78 · **Commits**: 1150
+- **Releases**: 74 · **Merged PRs**: 59 · **Open PRs**: 71 · **Closed issues**: 160 · **Open issues**: 77 · **Commits**: 1150
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 9 | 0 | 0 | 0 |
-| last60d | 2026-08-07 | 0 | 0 | 12 | 0 | 3 | 0 |
-| 90d | 2026-07-08 | 0 | 0 | 15 | 0 | 6 | 0 |
-| last180d | 2026-04-09 | 0 | 0 | 28 | 1 | 15 | 0 |
-| 360d | 2025-10-11 | 23 | 11 | 61 | 18 | 53 | 0 |
-| last720d | 2024-10-16 | 74 | 59 | 71 | 159 | 78 | 1150 |
+| 30d | 2026-09-07 | 0 | 0 | 9 | 0 | 0 | 0 |
+| last60d | 2026-08-08 | 0 | 0 | 12 | 0 | 3 | 0 |
+| 90d | 2026-07-09 | 0 | 0 | 15 | 0 | 6 | 0 |
+| last180d | 2026-04-10 | 0 | 0 | 28 | 1 | 15 | 0 |
+| 360d | 2025-10-12 | 23 | 11 | 61 | 18 | 53 | 91 |
+| last720d | 2024-10-17 | 74 | 59 | 71 | 160 | 77 | 1150 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for pal-mcp-server lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:19:49Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:53:01Z._
